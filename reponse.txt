@@ -1,0 +1,4 @@
+a) La commande "git pull" recupere les dernieres modifications depuis un depot distant et les fusionne avec vtre branche locale.La commande "git fetch" recupere egalement les dernieres modifications depuis un depot distant, mais ne les fusionne pas automatiquement avec une branche locale.
+b) Utilisez la commande "git stash" pour stocker temporairement les modifications locales non validees,puis utilisez la commande "git stash drop" pour supprimer le stash et annuler les modifications 
+c)Utilisez la commande "git push origin --delete<nom_de_la_branche>" pour supprimer une branche distante dans Git
+d)Utilisez la commande "git log <nom_du_fichier>" pour afficher l'historique des modifications pour une fichier specifiaue dans Git.
